@@ -34,8 +34,7 @@ Data Model: Data model is used for organizing data elements and how they relate 
 
 What are data elements? => They're pieces of information, such as people's names, account numbers, and addresses. 
 
-#### Data Modelling
-#### https://www.coursera.org/learn/data-preparation/supplement/vtp7L/data-modeling-levels-and-techniques
+#### Data Modelling: https://www.coursera.org/learn/data-preparation/supplement/vtp7L/data-modeling-levels-and-techniques
 
 
 
