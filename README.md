@@ -13,6 +13,34 @@ A sample is a part of a population that is representative of the population. You
 
 Historical data, which is data that already exists.
 
+Discrete data: This is data that's counted and has a limited number of values. Discrete data isn't limited to dollar amounts. Examples of other discrete data are stars and points. When partial measurements (half-stars or quarter-points) aren't allowed, the data is discrete. If you don't accept anything other than full stars or points, the data is considered discrete.
+
+Continuous Data: Data that is measured and can have almost any numeric value. Continuous data can be measured using a timer, and its value can be shown as a decimal with several places.
+
+Nominal data is a type of qualitative data that is categorized without a set order. In other words, this data doesn't have a sequence.
+
+Ordinal data, on the other hand, is a type of qualitative data with a set order or scale.
+
+Internal data, which is data that lives within a company's own systems.
+
+External data: Data that lives and is generated outside of an organization.
+
+Structured data is data that is organized in a certain format, such as rows and columns. Spreadsheets and relational databases are two examples of software
+that can store data in a structured way.
+
+Unstructured data: Data that is not organized in any easily identifiable manner. Audio and video files are examples of unstructured data because there's no clear way to identify or organize their content.
+
+Data Model: Data model is used for organizing data elements and how they relate to one another. Structured data works nicely within a data model. Data models help to keep data consistent and provide a map of how data is organized. This makes it easier for analysts and other stakeholders to make sense of their data and use it for business purposes.
+
+What are data elements? => They're pieces of information, such as people's names, account numbers, and addresses. 
+
+#### Data Modelling
+#### https://www.coursera.org/learn/data-preparation/supplement/vtp7L/data-modeling-levels-and-techniques
+
+
+
+
+
 
 
 
