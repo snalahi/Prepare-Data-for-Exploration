@@ -36,6 +36,51 @@ What are data elements? => They're pieces of information, such as people's names
 
 #### Data Modelling: https://www.coursera.org/learn/data-preparation/supplement/vtp7L/data-modeling-levels-and-techniques
 
+A data type is a specific kind of data attribute that tells what kind of value the data is. In other words, a data type tells you what kind of data you're working with.
+
+A data type in a spreadsheet can be one of three things: a number, a text or string, or a Boolean.
+
+A text data type, or a string data type, which is a sequence of characters and punctuation that contains textual information.
+
+A Boolean data type is a data type with only two possible values: true or false.
+
+You can call the rows "records" and the columns "fields."
+
+Two mostly used data formats are: Wide Data and Long Data.
+
+Wide Data => Every data subject has a single row with multiple columns to hold the values of various attributes of the subject.
+
+Long data => is data in which each row is one time point per subject, so each subject will have data in multiple rows. The long data format keeps everything nice and compact. 
+
+If you're wondering which format you should use, the simple answer is, "it depends." Sometimes you'll have to transform wide data into a long data format, or
+other times vice versa.
+
+#### Data Transformation: https://www.coursera.org/learn/data-preparation/supplement/EOCT4/transforming-data
+
+Data transformation enables data analysts to change the structure of data.
+
+The Boolean operator OR expands the number of results when used in a keyword search.
+
+Data transformation can change the structure of the data. An example of this is taking data stored in one format and converting it to another.
+
+Bias is a preference in favor of or against a person, group of people, or thing.
+`
+Skew => - A bias towards one particular group or subject (noun). exp: "the paper had a working-class skew"
+        - The state of not being symmetrical (Statistics).
+        - Make biased or distorted in a way that is regarded as inaccurate, unfair, or misleading (verb).
+          exp: "the curriculum is skewed towards the practical subjects"
+        - Cause (a distribution) to be asymmetrical (Statistics). exp: "the distributions were skewed to the right"
+`
+
+
+        
+
+
+
+
+
+
+
 
 
 
