@@ -106,6 +106,34 @@ source again, including:
 -- the page numbers of the material you
 ```
 
+Vetted public datasets, academic papers, and governmental agency data are usually good data sources.
+
+Third-party data about an older version of the product is inappropriate because it is not original or current.
+
+Ethics refers to well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness or specific virtues. 
+
+Data ethics refers to well- founded standards of right and wrong that dictate how data is collected, shared, and used.
+
+#### Six most important aspects or concerns of data ethics: ownership, transaction transparency, consent, currency, privacy, and openness.
+
+Openness of Data (or Open Data) => Free access, usage, and sharing of data. Interoperability is key to open data's success. Companies have to cooperate and
+work together to make data useful. Databases must be accessible with common formats and terminology. 
+
+Personally identifiable information, or PII, is information that can be used by itself or with other data to track down a person's identity.
+
+Data anonymization is the process of protecting people's private or sensitive data by eliminating that kind of information (PII). Typically, data anonymization involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. 
+
+Healthcare and financial data are two of the most sensitive types of data. These industries rely a lot on data anonymization techniques. After all, the stakes are very high. That’s why data in these two industries usually goes through de-identification, which is a process used to wipe data clean of all personally identifying information.
+
+#### Transaction transparency states that all data-processing activities and algorithms should be completely explainable and understood by the individual who provides their data.
+
+#### Consent is the aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it.
+
+In general, the usefulness of data decreases as time passes. The best data sources are current and relevant.
+
+Data privacy refers to preserving a data subject’s information and activity for all data transactions.
+
+
 
 
 
