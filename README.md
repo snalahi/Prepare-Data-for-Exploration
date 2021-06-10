@@ -64,13 +64,13 @@ The Boolean operator OR expands the number of results when used in a keyword sea
 Data transformation can change the structure of the data. An example of this is taking data stored in one format and converting it to another.
 
 Bias is a preference in favor of or against a person, group of people, or thing.
-`
+```
 Skew => - A bias towards one particular group or subject (noun). exp: "the paper had a working-class skew"
         - The state of not being symmetrical (Statistics).
         - Make biased or distorted in a way that is regarded as inaccurate, unfair, or misleading (verb).
           exp: "the curriculum is skewed towards the practical subjects"
         - Cause (a distribution) to be asymmetrical (Statistics). exp: "the distributions were skewed to the right"
-`
+```
 
 
         
