@@ -65,17 +65,21 @@ Data transformation can change the structure of the data. An example of this is 
 
 Bias is a preference in favor of or against a person, group of people, or thing.
 ```
-Skew => - A bias towards one particular group or subject (noun). exp: "the paper had a working-class skew"
+Skew => - A bias towards one particular group or subject (noun).
+          exp: "the paper had a working-class skew"
         - The state of not being symmetrical (Statistics).
-        - Make biased or distorted in a way that is regarded as inaccurate, unfair, or misleading (verb).
+        - Make biased or distorted in a way that is regarded as inaccurate, unfair,
+          or misleading (verb).
           exp: "the curriculum is skewed towards the practical subjects"
-        - Cause (a distribution) to be asymmetrical (Statistics). exp: "the distributions were skewed to the right"
+        - Cause (a distribution) to be asymmetrical (Statistics).
+          exp: "the distributions were skewed to the right"
 ```
 
 Data bias is a type of error that systematically skews results in a certain direction.
 
 ```
-Implication => The conclusion that can be drawn from something although it is not explicitly stated.
+Implication => The conclusion that can be drawn from something although it is not
+               explicitly stated.
 ```
 
 Unbiased Sampling is a sample that is representative of the population being measured.
@@ -91,7 +95,9 @@ Interpretation Bias => The tendency to always interpret ambiguous situations in 
 Confirmation Bias => is the tendency to search for, or interpret information in a way that confirms preexisting beliefs. Someone might be so eager to confirm a gut feeling, that they only notice things that support it, ignoring all other signals. This happens all the time in everyday life.
 
 ```
-A "citation" is the way you tell your readers that certain material in your work came from another source. It also gives your readers the information necessary to find that source again, including:
+A "citation" is the way you tell your readers that certain material in your work came
+from another source. It also gives your readers the information necessary to find that
+source again, including:
 
 -- information about the author
 -- the title of the work
