@@ -72,6 +72,36 @@ Skew => - A bias towards one particular group or subject (noun). exp: "the paper
         - Cause (a distribution) to be asymmetrical (Statistics). exp: "the distributions were skewed to the right"
 ```
 
+Data bias is a type of error that systematically skews results in a certain direction.
+
+```
+Implication => The conclusion that can be drawn from something although it is not explicitly stated.
+```
+
+Unbiased Sampling is a sample that is representative of the population being measured.
+
+There are four types of data bias: sampling bias, observer bias, interpretation bias, and confirmation bias.
+
+Sampling Bias => A sample that is not representative of the population as a whole.
+
+Observer Bias => which is sometimes referred to as experimenter bias or research bias. Basically, it's the tendency for different people to observe things differently. 
+
+Interpretation Bias => The tendency to always interpret ambiguous situations in a positive, or negative way.
+
+Confirmation Bias => is the tendency to search for, or interpret information in a way that confirms preexisting beliefs. Someone might be so eager to confirm a gut feeling, that they only notice things that support it, ignoring all other signals. This happens all the time in everyday life.
+
+```
+A "citation" is the way you tell your readers that certain material in your work came from another source. It also gives your readers the information necessary to find that source again, including:
+
+-- information about the author
+-- the title of the work
+-- the name and location of the company that published your copy of the source
+-- the date your copy was published
+-- the page numbers of the material you
+```
+
+
+
 
         
 
