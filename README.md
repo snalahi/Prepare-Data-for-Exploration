@@ -135,22 +135,33 @@ Data privacy refers to preserving a data subject’s information and activity fo
 
 #### Database is a collection of data stored in a computer system. 
 
+#### A relational database is a database that contains a series of tables that can be connected to show relationships. Basically, they allow data analysts to organize and link data based on what the data has in common. 
 
+#### A primary key is an identifier that references a column in which each value is unique.
 
-        
+#### A foreign key is a field within a table that's a primary key in another table. 
 
+#### Normalized database is a database in which only related data is stored at each table.         
 
+#### A redundancy occurs when the same piece of data is stored in two or more separate places. 
 
+#### A schema is a way of describing the way something is organized. You can think about data schemas like blueprints of how the database is constructed.
 
+#### Metadata: Data about data. Keep in mind that metadata is not the data itself. Instead, it's data about the data. In data analytics, metadata helps data analysts interpret the contents of the data within a database. That's why metadata is so important when working with databases. 
 
+There are three common types of metadata: descriptive, structural, and administrative.
+- Descriptive metadata is metadata that describes a piece of data and can be used to identify it at a later point in time.
+- Structural metadata, which is metadata that indicates how a piece of data is organized and whether it's part of one or more than one data collection.
+- Administrative metadata is metadata that indicates the technical source of a digital asset.   
 
+A metadata repository is a database specifically created to store metadata. Metadata repositories can be stored in a physical location, or they can be virtual, like data that exists in the cloud. A data analyst uses a metadata repository to access metadata quickly, maintain the metadata’s structure, and store metadata in a database. 
 
+Data governance is a process to ensure the formal management of a company’s data assets. This gives an organization better control of their data and
+helps a company manage issues related to data security and privacy, integrity, usability, and internal and external data flows. 
 
+When we introduce `sort range` in spreadsheet the data will be sorted on the first mentioned column, then depending upon that it will be sorted on the second column and so on.
 
-
-
-
-
+Column names should be written in lowercase and for names with multiple words, in snake case, which separates each word with an underscore to make it more readable. Column names should never contain spaces.
 
 
 
