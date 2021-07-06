@@ -133,7 +133,7 @@ In general, the usefulness of data decreases as time passes. The best data sourc
 
 Data privacy refers to preserving a data subject’s information and activity for all data transactions.
 
-
+#### Database is a collection of data stored in a computer system. 
 
 
 
