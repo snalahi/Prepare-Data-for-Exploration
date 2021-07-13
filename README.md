@@ -163,7 +163,13 @@ When we introduce `sort range` in spreadsheet the data will be sorted on the fir
 
 Column names should be written in lowercase and for names with multiple words, in snake case, which separates each word with an underscore to make it more readable. Column names should never contain spaces.
 
+Avoid spaces and special characters in file names. Instead, use dashes, underscores, or capital letters. Spaces and special characters can cause errors in some applications.
 
+Data security means protecting data from unauthorized access or corruption by adopting safety measures. 
+
+Tokenization replaces the data elements you want to protect with randomly generated data referred to as a “token.” The original data is stored in a separate location and mapped to the tokens.
+
+When using data security measures, analysts can choose between protecting an entire spreadsheet or protecting certain cells within the spreadsheet. Data security can be used to protect an entire spreadsheet, specific parts of a spreadsheet, or `even just a single cell`.
 
 
 
