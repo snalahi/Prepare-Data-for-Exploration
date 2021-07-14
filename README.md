@@ -171,6 +171,12 @@ Tokenization replaces the data elements you want to protect with randomly genera
 
 When using data security measures, analysts can choose between protecting an entire spreadsheet or protecting certain cells within the spreadsheet. Data security can be used to protect an entire spreadsheet, specific parts of a spreadsheet, or `even just a single cell`.
 
+Networking can be called professional relationship building. Networking is the most effective way to connect with fellow data analysts. When you’re networking, you can meet other professionals and participate in industry-related groups.
+
+A mentor helps you skill up, a sponsor helps you move up. 
+
+Lean in => Actively accept challenges and seek more responsibility.
+
 
 
 
